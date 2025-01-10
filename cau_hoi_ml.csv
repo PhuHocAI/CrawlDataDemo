@@ -1,0 +1,31 @@
+﻿Câu hỏi,Lựa chọn A,Lựa chọn B,Lựa chọn C,Lựa chọn D,Đáp án
+Q1. ________ is the application of machine learning.,Sentimental analysis,Traffic prediction,Speech and face recognition,All of the above,Answer: d. All of the above
+"Q2. From the following, _______ is not a feature of K-Nearest Neighbors (KNN).",KNN is simple and pretty intuitive,KNN constantly evolves,KNN has assumptions,No Training Step,Answer: c. KNN has assumptions
+Q3. Which of the following is the main goal of machine learning?,Enable computers to learn data,To automate manual tasks,To make computers intelligent,To generate self-aware machines,Answer: a. Enable computer to learn data
+Q4. Choose the real-world application of ML from the following.,Fraud detection,Chatbots,Digital assistants,All of the above,Answer: d. All of the above
+Q5. Which of the following ML algorithms can be used with unlabelled data?,Instance-based algorithms,Regression algorithms,Clustering algorithm,All of the above,Answer: c. Clustering algorithms
+Q6. Machine learning is a subset of _______.,Deep learning,Data earning,Artificial intelligence,All of the above,Answer: c. Artificial intelligence
+"Q7. From the following, choose the successful applications of ML",Learning to recognize spoken words,Learning to classify astronomical structures,Learning to drive an autonomous vehicles,All of the above,Answer: d. All of the above
+"Q8. From the following, ________ is not machine learning.",Rule-based interference,Artificial intelligence,Both a and b,Neither a nor b,Answer: a. Rule-based interference
+Q9. Choose a machine learning technique from the following.,Speech recognition and regression,Genetic programming and induction learning,Both a and b are correct,Neither a nor b is correct,Answer: b. Genetic programming and induction learning
+Q10. Which of the following elements defines the Candidate-Elimination algorithm?,Just a set of candidates’ hypothesis,"Set of instances, set of candidate hypothesis",Depends on the dataset,Just a set of instances,"Answer: b. Set of instances, set of candidate hypothesis"
+Q11. FIND-S algorithm ignores ______.,Negative,Positive,With positive or negative,Neither positive nor negative,Answer: a. Negative
+Q12. ________ is an example of stacking.,Voting Classifier,Random Forest,AdaBoost,Bagged Decision Trees,Answer: a. Voting Classifier
+Q13. ________ is a clustering algorithm in ML.,CART,Expectation Maximisation,Apriori,Gaussian Naive Bayes,Answer: b. Expectation Maximisation
+Q14. Which of the following is the most significant phase in the genetic algorithm?,Fitness function,Selection,Mutation,Crossover,Answer: d. Crossover
+Q15. Dimensionality reduction reduces in _______.,Collinearity,Entropy,Stochastics,Performance,Answer: a. Collinearity
+Q16. _______ model is a generative model used in ML,Naive Bayes,Linear Regression,Logistic Regression,Support vector machines,Answer: a. Naive Bayes
+Q17. Choose the invalid statement for Ensemble voting.,It takes non-linear combinations for learners,It takes linear combinations for learners,It is the easiest way to merge multiple classifiers,It is also called ensembles and linear opinion pools,Answer: a. It takes non-linear combinations for learners
+Q18. ML comprises learning algorithms that,Improve their performance,Over time with experience,At executing some task,All of the above,Answer: d. All of the above
+Q19. Data points possess negative residual if,The regression lines truly pass through the point,They are above the regression line,They are below the regression line,None of the above,Answer: c. They are below the regression line
+Q20. Which of the following models is trained with data only in a single batch?,Batch learning,Offline learning,Both a and b,Neither a nor b,Answer: c. Both a and b
+Q21. ______machine learning algorithm is associated with the idea of bagging?,Decision tree,Classification,Random forest,Regression,Answer: c. Random forest
+Q22. Different learning methods do not involve _______.,Analogy,Memorization,Introduction,Deduction,Answer: c. Introduction
+"Q23. From the following, choose the evaluation metric commonly used for classification tasks in the presence of class imbalance.",R-squared,F1-score,Accuracy,Mean Squared Error (MSE),Answer: b. F1-score
+Q24. ________ is not a supervised ML algorithm.,K-means,SVM for classification problems,Decision Tree,Naive Bayes,Answer: a. K-means
+Q25. What do we call an application of machine learning methods to large databases?,Big data computing,Artificial intelligence,Data mining,Internet of Things (IoT),Answer: c. Data mining
+"Q26. From the following, which is the appropriate definition of neuro software?",Software used by neurosurgeons,Software used to examine neurons,An easy and powerful neural network,Both a and b,Answer: c. An easy and powerful neural network
+"Q27. If the ML model output does not include the target variable, the model is called ______.",Predictive model,Descriptive model,Reinforcement learning,All of the above,Answer: b. Descriptive  model
+Q28. _______ is a supervised learning task.,Reinforcement learning,Dimensionality reduction,Clustering,Classification,Answer: d. Classification
+Q29. ______ algorithm is used to identify frequent itemsets in transactional databases.,K-Means clustering,Decision Trees,Support Vector Machine (SVM),Apriori algorithm,Answer: d. Apriori algorithm
+Q30. Choose a valid statement with respect to bias and variance.,Models that underfit possess a low variance,Models that overfit possess a low bias,Models that underfit possess a high bias,Both a and b,Answer: d. Both a and b
